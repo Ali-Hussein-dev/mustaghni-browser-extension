@@ -1,0 +1,51 @@
+body {}
+
+/* <i class="fa-solid fa-arrow-up-right-from-square"></i> */
+.show_bg {
+  background-image:
+    /* linear-gradient(to right, rgba(26, 23, 23, 0.7), rgba(238, 34, 34, 0.2)), */
+    url('palestine.jpeg');
+  /* width: 80%; */
+  /* width: 500px; */
+  /* height: 280px; */
+  /* height: 350px; */
+  width: 500px;
+  height: 296px;
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  /* background-size: cover; */
+  color: white;
+  padding: 20px;
+}
+
+.text_wrapper {
+  padding: 20px;
+  height: 100%;
+  position: relative;
+  background-color: rgba(0, 0, 0, .4);
+}
+
+.btn_btm {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+.alternatives {
+  color: white;
+}
+
+.logoContainer {
+  text-align: left;
+  height: 48px;
+}
+
+.logoContainer figure {
+  margin: 0px;
+  padding: 0px;
+}
+
+.logoContainer img {
+  height: 48px;
+  width: 48px;
+}

@@ -1,0 +1,6 @@
+scripts
+dist/chrome
+dist/firefox
+.idea
+tmp.txt
+node_modules
